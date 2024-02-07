@@ -18,6 +18,9 @@ The dataset is procurred from kaggle: https://www.kaggle.com/datasets/mathchi/di
 
 ## Models
 ### Models used and their respective accuracies:
+* Gaussian naive Bayes Classifier: 75.8 %
+* Support Vector Machine Classifier: 80.8 %
+* Logistic Regression Classifier: 77 %
 * Random Tree Classifier: 98.4 %
 * Adaboost Classifier: 80.6 %
 * Gradient Boosting Classifier: 87.8 %
